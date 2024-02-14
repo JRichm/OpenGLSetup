@@ -1,2 +1,6 @@
 *.vsidx
 *.opendb
+
+.vs/*
+
+x64/*

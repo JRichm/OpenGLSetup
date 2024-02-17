@@ -1,2 +1,6 @@
-C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\glad.c;C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\x64\Debug\glad.obj
-C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\main.cpp;C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\x64\Debug\main.obj
+C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\oldmain.cpp;C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\x64\Debug\oldmain.obj
+C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\src\glad.c;C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\x64\Debug\glad.obj
+C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\src\utils\input.cpp;C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\x64\Debug\input.obj
+C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\src\main.cpp;C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\x64\Debug\main.obj
+C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\src\utils\shader.cpp;C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\x64\Debug\shader.obj
+C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\src\utils\window.cpp;C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\x64\Debug\window.obj

@@ -1,3 +1,24 @@
-﻿  glad.c
+﻿  input.cpp
   main.cpp
-  OpenGLSetup.vcxproj -> C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\x64\Debug\OpenGLSetup.exe
+C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\src\main.cpp(8,16): error C2665: 'Input::Input': no overloaded function could convert all the argument types
+  C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\src\utils\input.h(27,1):
+  could be 'Input::Input(Input &&)'
+  	C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\src\main.cpp(8,16):
+  	'Input::Input(Input &&)': cannot convert argument 1 from 'Window' to 'Input &&'
+  		C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\src\main.cpp(8,17):
+  		Reason: cannot convert from 'Window' to 'Input'
+  		C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\src\main.cpp(8,17):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\src\utils\input.h(27,1):
+  or       'Input::Input(const Input &)'
+  	C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\src\main.cpp(8,16):
+  	'Input::Input(const Input &)': cannot convert argument 1 from 'Window' to 'const Input &'
+  		C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\src\main.cpp(8,17):
+  		Reason: cannot convert from 'Window' to 'const Input'
+  		C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\src\main.cpp(8,17):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  C:\Users\jblac\Desktop\Projects\OpenGLSetupSolution\OpenGLSetup\src\main.cpp(8,16):
+  while trying to match the argument list '(Window)'
+  
+  shader.cpp
+  Generating Code...

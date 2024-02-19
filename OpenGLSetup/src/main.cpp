@@ -3,7 +3,6 @@
 #include "utils/input.h"
 
 int main() {
-    Window window("Hello World", 680, 480);
     Shader shader("shaders/vertex.glsl", "shaders/fragment.glsl");
     Input input(window, shader);
 
